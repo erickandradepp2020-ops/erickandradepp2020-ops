@@ -1,6 +1,6 @@
 # Olá, eu sou o Erick Ryan 👋
 
-### Desenvolvedor Backend Java | Spring Boot | Estudante de Engenharia de Software
+### Desenvolvedor Backend Java | Estudante de Engenharia de Software
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Java+21+%7C+Spring+Boot+3;Desenvolvedor+Backend+REST+APIs;Estudante+de+Engenharia+de+Software" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 ### 🚀 Sobre Mim
 
-Desenvolvedor Backend com foco no ecossistema **Java** e **Spring Boot**, dedicado à construção de RESTful APIs, aplicação de Programação Orientada a Objetos (POO) e boas práticas de desenvolvimento. Atualmente graduando em **Engenharia de Software** pela Universidade Estácio de Sá, dedico meus estudos à arquitetura de código, padrões de projeto (Design Patterns) e modelagem de banco de dados.
+ Desenvolvedor Backend com foco no ecossistema **Java** e **Spring Boot**, dedicado à construção de RESTful APIs, aplicação de Programação Orientada a Objetos (POO) e boas práticas de desenvolvimento. Atualmente graduando em **Engenharia de Software** pela Universidade Estácio de Sá, dedico meus estudos à arquitetura de código, padrões de projeto (Design Patterns) e modelagem de banco de dados.
 
 Tenho experiência prática no desenvolvimento de aplicações Java, criação e consumo de APIs REST com Spring Boot, manipulação de bancos de dados relacionais (**PostgreSQL** e **MySQL**), fundamentos Web (**HTML5**, **CSS3**, **JavaScript**), além de versionamento de código com **Git/GitHub** em ambiente **Linux (WSL)**.
 
@@ -59,6 +59,7 @@ Tenho experiência prática no desenvolvimento de aplicações Java, criação e
 - 📜 **HackerRank:** Java (Basic) Skills Certified
 - 🌐 **EF SET Certificate:** Inglês Nível B2 (Independent)
 - 🎓 **Bootcamps & Capacitações:** CAIXA - IA na Prática (DIO) & FIAP Open (Tecnologia, IA e Inovação)
+- 🛡️ **CYBR - Princípios de Cibersegurança** — SENAI (Outubro de 2026)
 
 ---
 
