@@ -8,12 +8,21 @@
 
 ---
 
-### 🚀 Sobre Mim
+### 
+## 🛠 Com o que eu trabalho
+- **Backend:** Java 21, Spring Boot, Spring Data JPA, Hibernate
+- **Banco de dados:** PostgreSQL, SQL
+- **Web (básico):** HTML, CSS, JavaScript
+- **Ferramentas:** Git, GitHub, Gradle, IntelliJ IDEA, Postman
 
- Desenvolvedor Backend com foco no ecossistema **Java** e **Spring Boot**, dedicado à construção de RESTful APIs, aplicação de Programação Orientada a Objetos (POO) e boas práticas de desenvolvimento. Atualmente graduando em **Engenharia de Software** pela Universidade Estácio de Sá, dedico meus estudos à arquitetura de código, padrões de projeto (Design Patterns) e modelagem de banco de dados.
+## 📂 Projetos
+- **Gerenciador de Tarefas**: API REST com Spring Boot e PostgreSQL
+- **FinCore** *(em desenvolvimento)*: API de plataforma bancária digital, projeto de estudo
 
-Tenho experiência prática no desenvolvimento de aplicações Java, criação e consumo de APIs REST com Spring Boot, manipulação de bancos de dados relacionais (**PostgreSQL** e **MySQL**), fundamentos Web (**HTML5**, **CSS3**, **JavaScript**), além de versionamento de código com **Git/GitHub** em ambiente **Linux (WSL)**.
+## 🎯 Objetivo
+Entrar na área como desenvolvedor backend júnior, aprender com uma equipe e entregar código limpo.
 
+📫 [LinkedIn](https://www.linkedin.com/in/erick-ryan-8513123b3/) · erickandradepp2020@gmail.com
 ---
 
 ### 🛠️ Tech Stack
@@ -21,8 +30,6 @@ Tenho experiência prática no desenvolvimento de aplicações Java, criação e
 #### 💻 Backend & Linguagens
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-00599C?style=for-the-badge&logo=python&logoColor=white)
 
 #### 🌐 Frontend & Web Basics
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,7 +65,8 @@ Tenho experiência prática no desenvolvimento de aplicações Java, criação e
 
 - 📜 **HackerRank:** Java (Basic) Skills Certified
 - 🌐 **EF SET Certificate:** Inglês Nível B2 (Independent)
-- 🎓 **Bootcamps & Capacitações:** CAIXA - IA na Prática (DIO) & FIAP Open (Tecnologia, IA e Inovação)
+- 🎓 **Bootcamps & Capacitações:** IA na Prática (DIO) &
+Claude Academy: Claude Platform 101
 - 🛡️ **CYBR - Princípios de Cibersegurança** — SENAI (Outubro de 2026)
 
 ---
