@@ -17,7 +17,6 @@
 
 ## 📂 Projetos
 - **Gerenciador de Tarefas**: API REST com Spring Boot e PostgreSQL
-- **FinCore** *(em desenvolvimento)*: API de plataforma bancária digital, projeto de estudo
 
 ## 🎯 Objetivo
 Entrar na área como desenvolvedor backend júnior, aprender com uma equipe e entregar código limpo.
