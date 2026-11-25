@@ -2,102 +2,74 @@
 
 ### Desenvolvedor Backend Java | Estudante de Engenharia de Software
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Java+21+%7C+Spring+Boot+3;Desenvolvedor+Backend+REST+APIs;Estudante+de+Engenharia+de+Software" alt="Typing SVG" />
+Busco oportunidades de **estágio ou desenvolvedor backend júnior**, onde eu possa contribuir com a construção de APIs robustas, aprender com uma equipe experiente e evoluir tecnicamente entregando código limpo e bem estruturado.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/erick-ryan-8513123b3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:erickandradepp2020@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
 </p>
 
 ---
 
-### 
-## 🛠 Com o que eu trabalho
-- **Backend:** Java 21, Spring Boot, Spring Data JPA, Hibernate
-- **Banco de dados:** PostgreSQL, SQL
-- **Web (básico):** HTML, CSS, JavaScript
-- **Ferramentas:** Git, GitHub, Gradle, IntelliJ IDEA, Postman
+### 🛠️ Stack Tecnológica
 
-## 📂 Projetos
-- **Gerenciador de Tarefas**: API REST com Spring Boot e PostgreSQL
-
-## 🎯 Objetivo
-Entrar na área como desenvolvedor backend júnior, aprender com uma equipe e entregar código limpo.
-
-📫 [LinkedIn](https://www.linkedin.com/in/erick-ryan-8513123b3/) · erickandradepp2020@gmail.com
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Backend & Linguagens
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-#### 🌐 Frontend & Web Basics
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 🗄️ Bancos de Dados Relacionais
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### ⚙️ Ferramentas & Ambiente de Desenvolvimento
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=excel&logoColor=white)
-
----
-
-### 📌 O que eu faço
-
-- **Desenvolvimento Backend:** Criação e estruturação de APIs RESTful utilizando Java 21, Spring Boot 3 e Spring Data JPA.
-- **Desenvolvimento Web Base:** Construção de interfaces simples utilizando HTML5, CSS3 e manipulação do DOM com JavaScript.
-- **Modelagem de Dados & SQL:** Criação de tabelas, normalização, queries e gerenciamento de bancos de dados PostgreSQL e MySQL via DBeaver/pgAdmin.
-- **Projetos de Software:** Aplicação prática de conceitos de POO, lógica de programação, estrutura de dados e manipulação de arquivos.
-- **Engenharia de Software:** Modelagem de processos, diagramas UML e testes/validações de requisições HTTP via Postman.
-
----
-
-### 🏆 Conquistas & Certificações
-
-- 📜 **HackerRank:** Java (Basic) Skills Certified
-- 🌐 **EF SET Certificate:** Inglês Nível B2 (Independent)
-- 🎓 **Bootcamps & Capacitações:** IA na Prática (DIO) &
-Claude Academy: Claude Platform 101
-- 🛡️ **CYBR - Princípios de Cibersegurança** — SENAI (Outubro de 2026)
-
----
-
-### 🎓 Formação
-
-- **Bacharelado em Engenharia de Software** — Universidade Estácio de Sá
-- **Técnico em Informática** — Formação Integrada ao Ensino Médio
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickandradepp2020-ops&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickandradepp2020-ops&layout=compact&theme=tokyonight"/>
+**Backend & Linguagens**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot 3" />
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erickandradepp2020-ops&theme=tokyonight" alt="GitHub Streak" />
+**Banco de Dados**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+**Front-end (Base)**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+**Ferramentas & Ambiente**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
-### 📬 Entre em Contato
+### 📂 Projetos em Destaque
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erickandradepp2020-ops)
+* **[Gerenciador de Tarefas API](https://github.com/erickandradepp2020-ops/gerenciador-de-tarefas-api):** API RESTful desenvolvida com Java 21, Spring Boot 3, Spring Data JPA e PostgreSQL para controle e organização de tarefas (CRUD completo e persistência relacional).
+* **[Maratona Java DevDojo](https://github.com/erickandradepp2020-ops/maratona_Java_Devdojo):** Repositório de estudos práticos abordando Programação Orientada a Objetos (POO), tratamento de exceções, estruturas de dados e boas práticas em Java.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=erickandradepp2020-ops&color=36BCF7&style=flat-square&label=PROFILE+VIEWS" alt="Contador de Visitas"/>
+### 🎓 Formação & Certificações
+
+* **Bacharelado em Engenharia de Software** — Universidade Estácio de Sá *(Cursando)*
+* **Técnico em Informática** — Formação Integrada ao Ensino Médio *(Concluído)*
+* **Java (Basic) Skills Certification** — HackerRank
+* **EF SET English Certificate (B2 Independent)** — Nível Intermediário/Avançado
+* **CYBR – Princípios de Cibersegurança** — SENAI
+* **Claude Platform 101** — Anthropic Academy
+
+---
+
+### 📊 Estatísticas no GitHub
+
+<p align="left">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=erickandradepp2020-ops&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas GitHub" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickandradepp2020-ops&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
